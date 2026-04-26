@@ -22,5 +22,5 @@ python portfolio_analyzer.py
 ## Author
 [Louis-Charles Hébert] — Finance & Python enthusiast
 [www.linkedin.com/in/
-louis-charles-hébert-a805463bb] | [github.com/tonnom/portfolio-analyzer
+louis-charles-hébert-a805463bb] | [
 ]
