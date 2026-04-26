@@ -1,6 +1,6 @@
 # portfolio_analyzer.py
 # Analyse automatique d'un portefeuille d'actions canadiennes
-# Auteur : [Ton nom] | GitHub : [ton-username]
+# Auteur : [Louis-Charles Hébert] | GitHub : [Louiche00]
 
 # ── Données du portefeuille ──────────────────────────────
 PORTEFEUILLE = [
